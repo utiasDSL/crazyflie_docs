@@ -1,9 +1,3 @@
-Simulators
-==========
-
-Indexes can also have text.
-
-
 .. toctree::
     :hidden:
     :maxdepth: 1

@@ -1,6 +1,3 @@
-Getting Started
-===============
-
 .. toctree::
     :hidden:
     :maxdepth: 1
