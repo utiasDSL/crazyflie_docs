@@ -1,6 +1,5 @@
-light Indicators
+Light Indicators
 ================
-
 
 Indicators on the Crazyflie
 ---------------------------

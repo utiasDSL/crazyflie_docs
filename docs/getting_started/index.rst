@@ -1,11 +1,8 @@
-Getting Started
-===============
-General reference for assembling a Crazyflie: https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/
-
 .. toctree::
     :hidden:
     :maxdepth: 1
     :caption: Getting Started
 
+    assembling_crazyflie
     light_indicators
     expansion_decks
