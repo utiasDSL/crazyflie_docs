@@ -1,6 +1,6 @@
 Assembling the Crazyflies
 =========================
 
-This is a placeholder for the assembly instructions.
+General reference: https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/
 
-.. todo:: Add assembly instructions.
+![LEDs](https://www.bitcraze.io/images/getting-started/frontCF.png)
