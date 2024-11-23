@@ -8,7 +8,7 @@ Welcome to the Crazyflie documentation of the Learning Systems and Robotics Lab 
    :maxdepth: 1
    :caption: Getting Started
 
-   getting_started/assembly
+   getting_started/general_guide
 
 .. toctree::
    :hidden:
