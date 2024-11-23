@@ -1,7 +1,7 @@
 .. toctree::
     :hidden:
     :maxdepth: 1
-    :caption: Getting Started
+    :caption:
 
     assembling_crazyflie
     light_indicators
